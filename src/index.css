@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html, body {
+        @apply bg-[#1b1b32] text-[white] mt-[40px] font-Lato
+    }
+  }
